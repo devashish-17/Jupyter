@@ -1,0 +1,34 @@
+Basic Arithmetic Operations
+Control and Conditional structures
+Looping - For, while
+User Input
+Strings
+Integers
+Floating Values
+Typecasting
+
+Python Strings and Inbuilt functions
+Python List and Boolean Variables Inbuilt functions
+Python Sets and Inbuilt functions
+Python Dictionaries and Inbuilt functions
+Python Tuples and Inbuilt functions
+Functions in Python
+Lambda Functions
+Iterators and Generators
+Exception Handling & Import libraries
+
+Class
+Object
+Method
+Inheritance
+Polymorphism
+Data Abstraction
+Encapsulation
+
+Flask
+Numpy
+Pandas
+Matplotlib
+Seaborn
+Scipy
+Open CV
